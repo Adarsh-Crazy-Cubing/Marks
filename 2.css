@@ -1,0 +1,30 @@
+<style>
+
+table, tr {
+    font-family: verdana;
+    font-size: 20px;
+	background-color: lightblue;
+	border-style: solid;
+    border-color: dark blue;
+	border-width: 2px
+}
+
+td {
+    width: 150px;
+	color: red;
+	height: 42px;
+	font-family: verdana;
+    font-size: 20px;
+	background-color: lightblue;
+	border-style: solid;
+    border-color: darkblue;
+	border-width: 2px;
+	text-align: center
+}
+
+#heading {
+	font-family: verdana;
+	color: black
+}
+
+</style>
