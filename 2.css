@@ -1,12 +1,18 @@
 <style>
 
-table, tr {
+table {
     font-family: verdana;
     font-size: 20px;
 	background-color: lightblue;
 	border-style: solid;
     border-color: dark blue;
 	border-width: 2px
+}
+
+tr {
+    font-family: verdana;
+    font-size: 20px;
+	background-color: lightblue;
 }
 
 td {
